@@ -1,0 +1,137 @@
+{
+  "site": {
+    "name": "医疗全球",
+    "tagline": "全球医疗解决方案",
+    "description": "面向全球医疗提供者的先进医疗技术平台"
+  },
+  "nav": {
+    "home": "首页",
+    "services": "服务",
+    "solutions": "解决方案",
+    "compliance": "合规",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "login": "登录",
+    "signup": "开始使用"
+  },
+  "hero": {
+    "title": "变革全球医疗",
+    "subtitle": "安全、合规、创新的医疗技术解决方案",
+    "cta": "预约演示"
+  },
+  "services": {
+    "title": "我们的服务",
+    "subtitle": "全面的医疗保健解决方案",
+    "telemedicine": {
+      "title": "远程医疗",
+      "description": "端到端加密的安全视频咨询"
+    },
+    "ehr": {
+      "title": "电子健康档案",
+      "description": "符合HIPAA的患者数据管理"
+    },
+    "ai_diagnosis": {
+      "title": "AI辅助诊断",
+      "description": "机器学习驱动的诊断工具"
+    },
+    "pharmacy": {
+      "title": "药房管理",
+      "description": "集成处方和药物跟踪"
+    }
+  },
+  "compliance": {
+    "title": "全球合规",
+    "subtitle": "满足国际医疗标准",
+    "hipaa": {
+      "title": "HIPAA合规",
+      "description": "完全符合美国医疗数据保护法规"
+    },
+    "gdpr": {
+      "title": "GDPR就绪",
+      "description": "符合欧洲数据隐私法规"
+    },
+    "iso": {
+      "title": "ISO 27001",
+      "description": "国际安全管理认证"
+    },
+    "fda": {
+      "title": "FDA批准",
+      "description": "美国食品药品监督管理局批准"
+    }
+  },
+  "pricing": {
+    "title": "医疗方案",
+    "subtitle": "为您的诊所选择合适的解决方案",
+    "plans": {
+      "clinic": {
+        "name": "诊所版",
+        "price": "¥2,099",
+        "period": "/月",
+        "description": "小型医疗机构",
+        "features": [
+          "最多5名医生",
+          "基础电子病历",
+          "远程医疗",
+          "邮件支持"
+        ],
+        "cta": "免费试用"
+      },
+      "hospital": {
+        "name": "医院版",
+        "price": "¥6,999",
+        "period": "/月",
+        "description": "中型医院",
+        "features": [
+          "无限医生数量",
+          "高级电子病历",
+          "AI诊断",
+          "24/7支持",
+          "API访问"
+        ],
+        "cta": "联系销售",
+        "popular": "最受欢迎"
+      },
+      "enterprise": {
+        "name": "企业版",
+        "price": "定制",
+        "period": "",
+        "description": "医疗系统",
+        "features": [
+          "多院区管理",
+          "定制集成",
+          "专属支持",
+          "本地部署选项",
+          "SLA保障"
+        ],
+        "cta": "获取报价"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 医疗全球. 保留所有权利.",
+    "links": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "hipaa": "HIPAA声明",
+      "cookies": "Cookie政策"
+    }
+  },
+  "compliance_notice": {
+    "title": "医疗数据保护",
+    "message": "本平台处理敏感医疗数据。继续使用即表示您确认我们符合HIPAA、GDPR和当地医疗法规。",
+    "accept": "我已了解",
+    "learn_more": "了解更多"
+  },
+  "medical_terms": {
+    "diagnosis": "诊断",
+    "prescription": "处方",
+    "medical_record": "病历",
+    "patient": "患者",
+    "provider": "医疗服务提供者",
+    "insurance": "保险",
+    "copay": "自付额",
+    "deductible": "免赔额",
+    "formulary": "处方集",
+    "referral": "转诊"
+  }
+}

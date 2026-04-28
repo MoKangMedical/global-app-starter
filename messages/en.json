@@ -1,0 +1,303 @@
+{
+  "hero": {
+    "title": "Go Global with Confidence",
+    "subtitle": "A comprehensive internationalization framework for Chinese tech companies expanding overseas",
+    "cta": "Get Started"
+  },
+  "demo": {
+    "title": "出海之父 Demo",
+    "subtitle": "Experience the power of global expansion",
+    "pause": "Pause",
+    "play": "Play Demo",
+    "dashboard": "Dashboard",
+    "mainTitle": "出海能力全景展示",
+    "mainDescription": "体验出海之父提供的完整国际化能力框架，从多语言支持到全球支付，从合规管理到临床验证。",
+    "capabilities": "核心能力",
+    "progress": "Progress",
+    "demo": "Interactive Demo",
+    "step": "Step",
+    "countrySelector": {
+      "title": "Country Selector",
+      "description": "Select your target market from 10+ countries with automatic currency detection."
+    },
+    "currencyConverter": {
+      "title": "Currency Converter",
+      "description": "Real-time currency conversion with live exchange rates and trend indicators."
+    },
+    "gdpr": {
+      "title": "GDPR Consent",
+      "description": "GDPR-compliant cookie consent management with customizable categories."
+    },
+    "clinical": {
+      "title": "Clinical Trial Tracker",
+      "description": "Monitor clinical trials across regions with regulatory status tracking."
+    },
+    "statistics": "出海能力统计",
+    "countries": "Supported Countries",
+    "coreCapabilities": "Core Capabilities",
+    "overallProgress": "Overall Progress",
+    "support": "Global Support",
+    "ready": "准备好出海了吗？",
+    "readyDescription": "您的平台已具备国际化基础，让我们帮助您开拓新市场。",
+    "exploreDashboard": "Explore Dashboard",
+    "viewOnGitHub": "View on GitHub"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Choose your plan and complete payment",
+    "secure": "Secure Checkout",
+    "selectPlan": "Select Plan",
+    "payment": "Payment",
+    "complete": "Complete",
+    "choosePlan": "Choose Your Plan",
+    "choosePlanDescription": "Select the plan that best fits your needs",
+    "month": "month",
+    "year": "year",
+    "oneTime": "one-time",
+    "mostPopular": "Most Popular",
+    "selected": "Selected",
+    "select": "Select",
+    "continueToPayment": "Continue to Payment",
+    "backToPlans": "Back to Plans",
+    "popular": "Most Popular",
+    "paymentMethod": "Payment Method",
+    "email": "Email",
+    "name": "Name",
+    "country": "Country",
+    "cardNumber": "Card Number",
+    "expiry": "Expiry",
+    "cvc": "CVC",
+    "processing": "Processing...",
+    "payNow": "Pay Now",
+    "secure": "Secure Payment",
+    "encrypted": "256-bit SSL",
+    "supportedMethods": "Supported payment methods",
+    "paymentSuccessful": "Payment Successful!",
+    "paymentSuccessfulDescription": "Thank you for your purchase. Your account has been upgraded.",
+    "paymentId": "Payment ID",
+    "goToDashboard": "Go to Dashboard",
+    "backToHome": "Back to Home",
+    "receiptDetails": "Receipt Details",
+    "plan": "Plan",
+    "amount": "Amount",
+    "date": "Date",
+    "status": "Status",
+    "paid": "Paid",
+    "supportedPaymentMethods": "Supported Payment Methods",
+    "whyChooseUs": "Why Choose Us?",
+    "globalCoverage": "Global Coverage",
+    "globalCoverageDescription": "Support for 135+ currencies and 45+ countries",
+    "securePayments": "Secure Payments",
+    "securePaymentsDescription": "PCI DSS Level 1 certified with 256-bit encryption",
+    "instantProcessing": "Instant Processing",
+    "instantProcessingDescription": "Real-time payment processing and instant notifications"
+  },
+  "payments": {
+    "title": "Payment History",
+    "subtitle": "View and manage your payment records",
+    "refresh": "Refresh",
+    "totalSpent": "Total Spent",
+    "successful": "Successful",
+    "refunded": "Refunded",
+    "totalPayments": "Total Payments",
+    "searchPlaceholder": "Search payments...",
+    "allStatus": "All Status",
+    "succeeded": "Succeeded",
+    "pending": "Pending",
+    "failed": "Failed",
+    "allTime": "All Time",
+    "last7Days": "Last 7 Days",
+    "last30Days": "Last 30 Days",
+    "last90Days": "Last 90 Days",
+    "lastYear": "Last Year",
+    "paymentId": "Payment ID",
+    "description": "Description",
+    "amount": "Amount",
+    "status": "Status",
+    "method": "Method",
+    "date": "Date",
+    "actions": "Actions",
+    "receipt": "Receipt",
+    "noPayments": "No payments found",
+    "noPaymentsDescription": "There are no payments matching your current filters.",
+    "exportCsv": "Export CSV"
+  },
+  "features": {
+    "title": "Core Capabilities",
+    "i18n": {
+      "title": "Internationalization",
+      "description": "Multi-language support with dynamic routing and localized content management"
+    },
+    "payment": {
+      "title": "Global Payments",
+      "description": "Multi-currency payment processing with Stripe integration and tax compliance"
+    },
+    "compliance": {
+      "title": "Compliance & Security",
+      "description": "GDPR, HIPAA, and regional compliance tools for secure global operations"
+    },
+    "clinical": {
+      "title": "Clinical Validation",
+      "description": "Multi-regional clinical trial management and regulatory tracking for medical AI"
+    },
+    "analytics": {
+      "title": "Analytics & Monitoring",
+      "description": "User behavior analytics and performance monitoring across regions"
+    },
+    "support": {
+      "title": "Global Support",
+      "description": "Multi-language customer support and documentation systems"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "starter": {
+      "name": "Starter",
+      "price": "Free",
+      "description": "Perfect for testing and small projects",
+      "features": [
+        "Basic i18n support",
+        "2 languages",
+        "Community support",
+        "Basic analytics"
+      ],
+      "cta": "Start Free"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$99",
+      "period": "/month",
+      "description": "For growing businesses ready to expand",
+      "features": [
+        "Full i18n framework",
+        "Unlimited languages",
+        "Payment integration",
+        "GDPR compliance",
+        "Priority support",
+        "Advanced analytics"
+      ],
+      "cta": "Start Pro Trial",
+      "popular": "Most Popular"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "description": "For large organizations with complex needs",
+      "features": [
+        "Everything in Pro",
+        "Clinical trial management",
+        "Regulatory compliance",
+        "Dedicated support",
+        "Custom integrations",
+        "SLA guarantee"
+      ],
+      "cta": "Contact Sales"
+    }
+  },
+  "country": {
+    "searchPlaceholder": "Search countries...",
+    "selectCountry": "Select Country",
+    "detected": "Detected based on your location"
+  },
+  "currency": {
+    "title": "Currency Converter",
+    "from": "From",
+    "to": "To",
+    "swap": "Swap currencies",
+    "refresh": "Refresh",
+    "lastUpdated": "Last updated",
+    "quickAmounts": "Quick amounts"
+  },
+  "gdpr": {
+    "title": "Cookie Consent",
+    "description": "We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.",
+    "showDetails": "Show details",
+    "hideDetails": "Hide details",
+    "acceptAll": "Accept All",
+    "rejectAll": "Reject All",
+    "customize": "Customize",
+    "cookieSettings": "Cookie Settings",
+    "cancel": "Cancel",
+    "savePreferences": "Save Preferences"
+  },
+  "clinicalTrials": {
+    "title": "Clinical Trial Tracker",
+    "globalTrials": "Global Clinical Trials",
+    "totalTrials": "Total Trials",
+    "activeTrials": "Active Trials",
+    "patientsEnrolled": "Patients Enrolled",
+    "totalBudget": "Total Budget",
+    "budgetUtilization": "Budget Utilization",
+    "all": "All",
+    "active": "Active",
+    "planning": "Planning",
+    "completed": "Completed",
+    "sites": "sites",
+    "patients": "patients",
+    "progress": "Progress",
+    "more": "more",
+    "budget": "Budget",
+    "spent": "Spent",
+    "utilized": "utilized",
+    "noTrials": "No clinical trials found",
+    "noTrialsDescription": "There are no clinical trials matching your current filter."
+  },
+  "dashboard": {
+    "title": "Go Global Dashboard",
+    "subtitle": "International capabilities for your medical AI platform",
+    "privacy": "Privacy",
+    "overallProgress": "Overall Internationalization Progress",
+    "progressDescription": "Your platform is ready for global expansion",
+    "complete": "Complete",
+    "implemented": "Implemented",
+    "inProgress": "In Progress",
+    "planned": "Planned",
+    "totalFeatures": "Total Features",
+    "overview": "Overview",
+    "currency": "Currency",
+    "clinical": "Clinical Trials",
+    "capabilities": "Capabilities",
+    "progress": "Progress",
+    "features": "Features",
+    "moreFeatures": "more features",
+    "paymentMethods": "Supported Payment Methods",
+    "capabilityMatrix": "Capability Matrix",
+    "capability": "Capability",
+    "status": "Status",
+    "readyToGoGlobal": "Ready to Go Global?",
+    "goGlobalDescription": "Your platform has the foundation for international expansion. Let us help you reach new markets.",
+    "startExpansion": "Start Expansion"
+  },
+  "footer": {
+    "description": "A comprehensive internationalization framework for Chinese tech companies expanding overseas",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "documentation": "Documentation",
+      "api": "API Reference"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "gdpr": "GDPR"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Help Center",
+      "community": "Community",
+      "status": "Status",
+      "changelog": "Changelog"
+    },
+    "copyright": "© 2026 Global App Starter. All rights reserved."
+  }
+}

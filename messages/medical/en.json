@@ -1,0 +1,125 @@
+{
+  "site": {
+    "name": "MedGlobal",
+    "tagline": "Global Healthcare Solutions",
+    "description": "Advanced medical technology platform for global healthcare providers"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "solutions": "Solutions",
+    "compliance": "Compliance",
+    "about": "About Us",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Get Started"
+  },
+  "hero": {
+    "title": "Transforming Healthcare Globally",
+    "subtitle": "Secure, compliant, and innovative medical technology solutions",
+    "cta": "Schedule Demo"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive healthcare solutions",
+    "telemedicine": {
+      "title": "Telemedicine",
+      "description": "Secure video consultations with end-to-end encryption"
+    },
+    "ehr": {
+      "title": "Electronic Health Records",
+      "description": "HIPAA-compliant patient data management"
+    },
+    "ai_diagnosis": {
+      "title": "AI-Assisted Diagnosis",
+      "description": "Machine learning powered diagnostic tools"
+    },
+    "pharmacy": {
+      "title": "Pharmacy Management",
+      "description": "Integrated prescription and medication tracking"
+    }
+  },
+  "compliance": {
+    "title": "Global Compliance",
+    "subtitle": "Meeting international healthcare standards",
+    "hipaa": {
+      "title": "HIPAA Compliant",
+      "description": "Full compliance with US healthcare data protection"
+    },
+    "gdpr": {
+      "title": "GDPR Ready",
+      "description": "European data privacy regulation compliance"
+    },
+    "iso": {
+      "title": "ISO 27001",
+      "description": "International security management certification"
+    },
+    "fda": {
+      "title": "FDA Cleared",
+      "description": "US Food and Drug Administration approved"
+    }
+  },
+  "pricing": {
+    "title": "Healthcare Plans",
+    "subtitle": "Choose the right solution for your practice",
+    "plans": {
+      "clinic": {
+        "name": "Clinic",
+        "price": "$299",
+        "period": "/month",
+        "description": "Small medical practices",
+        "features": [
+          "Up to 5 providers",
+          "Basic EHR",
+          "Telemedicine",
+          "Email support"
+        ],
+        "cta": "Start Free Trial"
+      },
+      "hospital": {
+        "name": "Hospital",
+        "price": "$999",
+        "period": "/month",
+        "description": "Medium-sized hospitals",
+        "features": [
+          "Unlimited providers",
+          "Advanced EHR",
+          "AI Diagnostics",
+          "24/7 Support",
+          "API Access"
+        ],
+        "cta": "Contact Sales",
+        "popular": "Most Popular"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom",
+        "period": "",
+        "description": "Healthcare systems",
+        "features": [
+          "Multi-facility",
+          "Custom integrations",
+          "Dedicated support",
+          "On-premise option",
+          "SLA guarantee"
+        ],
+        "cta": "Request Quote"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 MedGlobal. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "hipaa": "HIPAA Notice",
+      "cookies": "Cookie Policy"
+    }
+  },
+  "compliance_notice": {
+    "title": "Medical Data Protection",
+    "message": "This platform processes sensitive medical data. By continuing, you acknowledge our compliance with HIPAA, GDPR, and local healthcare regulations.",
+    "accept": "I Understand",
+    "learn_more": "Learn More"
+  }
+}

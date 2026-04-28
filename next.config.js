@@ -1,0 +1,57 @@
+/** @type {import('next').NextConfig} */
+const withBundleAnalyzer = require('@next/bundle-analyzer')({
+  enabled: process.env.ANALYZE === 'true',
+});
+
+const nextConfig = {
+  reactStrictMode: true,
+  images: {
+    domains: ['localhost', 'your-domain.com'],
+    formats: ['image/avif', 'image/webp'],
+  },
+  i18n: {
+    locales: ['en', 'zh', 'ja', 'ko', 'es', 'fr', 'de', 'pt'],
+    defaultLocale: 'en',
+    localeDetection: true,
+  },
+  experimental: {
+    optimizeCss: true,
+    scrollRestoration: true,
+  },
+  headers: async () => [
+    {
+      source: '/:path*',
+      headers: [
+        {
+          key: 'X-DNS-Prefetch-Control',
+          value: 'on'
+        },
+        {
+          key: 'X-XSS-Protection',
+          value: '1; mode=block'
+        },
+        {
+          key: 'X-Frame-Options',
+          value: 'SAMEORIGIN'
+        },
+        {
+          key: 'X-Content-Type-Options',
+          value: 'nosniff'
+        },
+        {
+          key: 'Referrer-Policy',
+          value: 'origin-when-cross-origin'
+        }
+      ]
+    }
+  ],
+  redirects: async () => [
+    {
+      source: '/zh-CN/:path*',
+      destination: '/zh/:path*',
+      permanent: true,
+    },
+  ],
+};
+
+module.exports = withBundleAnalyzer(nextConfig);

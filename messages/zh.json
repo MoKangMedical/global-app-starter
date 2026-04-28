@@ -1,0 +1,303 @@
+{
+  "hero": {
+    "title": "出海之父，助力中国科技走向世界",
+    "subtitle": "专为中国科技企业打造的出海能力框架，一站式解决国际化难题",
+    "cta": "立即开始"
+  },
+  "demo": {
+    "title": "出海之父演示",
+    "subtitle": "体验出海的力量",
+    "pause": "暂停",
+    "play": "播放演示",
+    "dashboard": "控制台",
+    "mainTitle": "出海能力全景展示",
+    "mainDescription": "体验出海之父提供的完整国际化能力框架，从多语言支持到全球支付，从合规管理到临床验证。",
+    "capabilities": "核心能力",
+    "progress": "进度",
+    "demo": "交互演示",
+    "step": "步骤",
+    "countrySelector": {
+      "title": "国家选择器",
+      "description": "从10+国家中选择目标市场，自动检测货币。"
+    },
+    "currencyConverter": {
+      "title": "货币转换器",
+      "description": "实时货币转换，支持汇率显示和趋势分析。"
+    },
+    "gdpr": {
+      "title": "GDPR同意",
+      "description": "符合GDPR的Cookie同意管理，支持自定义类别。"
+    },
+    "clinical": {
+      "title": "临床试验跟踪器",
+      "description": "跨区域临床试验监控，支持监管状态跟踪。"
+    },
+    "statistics": "出海能力统计",
+    "countries": "支持国家",
+    "coreCapabilities": "核心能力",
+    "overallProgress": "整体进度",
+    "support": "全球支持",
+    "ready": "准备好出海了吗？",
+    "readyDescription": "您的平台已具备国际化基础，让我们帮助您开拓新市场。",
+    "exploreDashboard": "探索控制台",
+    "viewOnGitHub": "在GitHub查看"
+  },
+  "checkout": {
+    "title": "结账",
+    "subtitle": "选择您的计划并完成支付",
+    "secure": "安全结账",
+    "selectPlan": "选择计划",
+    "payment": "支付",
+    "complete": "完成",
+    "choosePlan": "选择您的计划",
+    "choosePlanDescription": "选择最适合您需求的计划",
+    "month": "月",
+    "year": "年",
+    "oneTime": "一次性",
+    "mostPopular": "最受欢迎",
+    "selected": "已选择",
+    "select": "选择",
+    "continueToPayment": "继续支付",
+    "backToPlans": "返回计划",
+    "popular": "最受欢迎",
+    "paymentMethod": "支付方式",
+    "email": "邮箱",
+    "name": "姓名",
+    "country": "国家",
+    "cardNumber": "卡号",
+    "expiry": "有效期",
+    "cvc": "CVC",
+    "processing": "处理中...",
+    "payNow": "立即支付",
+    "secure": "安全支付",
+    "encrypted": "256位SSL加密",
+    "supportedMethods": "支持的支付方式",
+    "paymentSuccessful": "支付成功！",
+    "paymentSuccessfulDescription": "感谢您的购买。您的账户已升级。",
+    "paymentId": "支付ID",
+    "goToDashboard": "前往控制台",
+    "backToHome": "返回首页",
+    "receiptDetails": "收据详情",
+    "plan": "计划",
+    "amount": "金额",
+    "date": "日期",
+    "status": "状态",
+    "paid": "已支付",
+    "supportedPaymentMethods": "支持的支付方式",
+    "whyChooseUs": "为什么选择我们？",
+    "globalCoverage": "全球覆盖",
+    "globalCoverageDescription": "支持135+种货币和45+个国家",
+    "securePayments": "安全支付",
+    "securePaymentsDescription": "PCI DSS Level 1认证，256位加密",
+    "instantProcessing": "即时处理",
+    "instantProcessingDescription": "实时支付处理和即时通知"
+  },
+  "payments": {
+    "title": "支付历史",
+    "subtitle": "查看和管理您的支付记录",
+    "refresh": "刷新",
+    "totalSpent": "总支出",
+    "successful": "成功",
+    "refunded": "已退款",
+    "totalPayments": "总支付",
+    "searchPlaceholder": "搜索支付...",
+    "allStatus": "所有状态",
+    "succeeded": "成功",
+    "pending": "待处理",
+    "failed": "失败",
+    "allTime": "所有时间",
+    "last7Days": "最近7天",
+    "last30Days": "最近30天",
+    "last90Days": "最近90天",
+    "lastYear": "最近一年",
+    "paymentId": "支付ID",
+    "description": "描述",
+    "amount": "金额",
+    "status": "状态",
+    "method": "方式",
+    "date": "日期",
+    "actions": "操作",
+    "receipt": "收据",
+    "noPayments": "未找到支付记录",
+    "noPaymentsDescription": "当前筛选条件下没有匹配的支付记录。",
+    "exportCsv": "导出CSV"
+  },
+  "features": {
+    "title": "核心能力",
+    "i18n": {
+      "title": "国际化框架",
+      "description": "多语言支持、动态路由、本地化内容管理"
+    },
+    "payment": {
+      "title": "全球支付",
+      "description": "Stripe集成、多币种支持、税务合规"
+    },
+    "compliance": {
+      "title": "合规与安全",
+      "description": "GDPR、HIPAA等地区合规工具"
+    },
+    "clinical": {
+      "title": "临床验证",
+      "description": "医疗AI多区域临床试验管理与监管跟踪"
+    },
+    "analytics": {
+      "title": "数据分析",
+      "description": "跨区域用户行为分析与性能监控"
+    },
+    "support": {
+      "title": "全球支持",
+      "description": "多语言客服与文档系统"
+    }
+  },
+  "pricing": {
+    "title": "选择您的方案",
+    "starter": {
+      "name": "入门版",
+      "price": "免费",
+      "description": "适合测试和小项目",
+      "features": [
+        "基础国际化支持",
+        "2种语言",
+        "社区支持",
+        "基础分析"
+      ],
+      "cta": "免费开始"
+    },
+    "pro": {
+      "name": "专业版",
+      "price": "$99",
+      "period": "/月",
+      "description": "适合准备出海的成长型企业",
+      "features": [
+        "完整国际化框架",
+        "无限语言",
+        "支付集成",
+        "GDPR合规",
+        "优先支持",
+        "高级分析"
+      ],
+      "cta": "开始试用",
+      "popular": "最受欢迎"
+    },
+    "enterprise": {
+      "name": "企业版",
+      "price": "定制",
+      "description": "适合有复杂需求的大型组织",
+      "features": [
+        "专业版全部功能",
+        "临床试验管理",
+        "监管合规",
+        "专属支持",
+        "定制集成",
+        "SLA保障"
+      ],
+      "cta": "联系销售"
+    }
+  },
+  "country": {
+    "searchPlaceholder": "搜索国家...",
+    "selectCountry": "选择国家",
+    "detected": "根据您的位置自动检测"
+  },
+  "currency": {
+    "title": "货币转换器",
+    "from": "从",
+    "to": "到",
+    "swap": "交换货币",
+    "refresh": "刷新",
+    "lastUpdated": "最后更新",
+    "quickAmounts": "快捷金额"
+  },
+  "gdpr": {
+    "title": "Cookie同意",
+    "description": "我们使用Cookie来提升您的浏览体验、提供个性化内容和分析流量。点击\"全部接受\"即表示您同意我们使用Cookie。",
+    "showDetails": "显示详情",
+    "hideDetails": "隐藏详情",
+    "acceptAll": "全部接受",
+    "rejectAll": "全部拒绝",
+    "customize": "自定义",
+    "cookieSettings": "Cookie设置",
+    "cancel": "取消",
+    "savePreferences": "保存偏好"
+  },
+  "clinicalTrials": {
+    "title": "临床试验跟踪器",
+    "globalTrials": "全球临床试验",
+    "totalTrials": "总试验数",
+    "activeTrials": "进行中试验",
+    "patientsEnrolled": "入组患者",
+    "totalBudget": "总预算",
+    "budgetUtilization": "预算使用率",
+    "all": "全部",
+    "active": "进行中",
+    "planning": "规划中",
+    "completed": "已完成",
+    "sites": "个中心",
+    "patients": "名患者",
+    "progress": "进度",
+    "more": "更多",
+    "budget": "预算",
+    "spent": "已花费",
+    "utilized": "已使用",
+    "noTrials": "未找到临床试验",
+    "noTrialsDescription": "当前筛选条件下没有匹配的临床试验。"
+  },
+  "dashboard": {
+    "title": "出海控制台",
+    "subtitle": "医疗AI平台的国际化能力中心",
+    "privacy": "隐私",
+    "overallProgress": "国际化整体进度",
+    "progressDescription": "您的平台已为全球扩展做好准备",
+    "complete": "完成",
+    "implemented": "已实现",
+    "inProgress": "进行中",
+    "planned": "计划中",
+    "totalFeatures": "总功能数",
+    "overview": "概览",
+    "currency": "货币",
+    "clinical": "临床试验",
+    "capabilities": "能力矩阵",
+    "progress": "进度",
+    "features": "功能",
+    "moreFeatures": "更多功能",
+    "paymentMethods": "支持的支付方式",
+    "capabilityMatrix": "能力矩阵",
+    "capability": "能力",
+    "status": "状态",
+    "readyToGoGlobal": "准备好出海了吗？",
+    "goGlobalDescription": "您的平台已具备国际化基础，让我们帮助您开拓新市场。",
+    "startExpansion": "开始扩展"
+  },
+  "footer": {
+    "description": "专为中国科技企业打造的出海能力框架",
+    "product": {
+      "title": "产品",
+      "features": "功能",
+      "pricing": "定价",
+      "documentation": "文档",
+      "api": "API参考"
+    },
+    "company": {
+      "title": "公司",
+      "about": "关于我们",
+      "blog": "博客",
+      "careers": "招聘",
+      "contact": "联系我们"
+    },
+    "legal": {
+      "title": "法律",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "cookies": "Cookie政策",
+      "gdpr": "GDPR"
+    },
+    "support": {
+      "title": "支持",
+      "help": "帮助中心",
+      "community": "社区",
+      "status": "状态",
+      "changelog": "更新日志"
+    },
+    "copyright": "© 2026 出海之父. 保留所有权利。"
+  }
+}
